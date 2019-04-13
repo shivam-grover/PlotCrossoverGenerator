@@ -74,3 +74,6 @@ Give us a concatenated string of any 2 subplots (no matter how unrelated they ar
 
 2. Movies subtitles files can be fed into the script and on that basis -- extention plot. 
 Live Example - Tortiose and Hare story part 2 
+
+## **Contributors**:
+Harshita Didde, Shivam Grover
